@@ -1,6 +1,3 @@
-
-Here's a description for your GitHub repository:
-
 # 🗽 Uber NYC Ride Data Analysis Project 📊
 Welcome to my first data analysis project, where I explored Uber's ride data in New York City! This project dives into ride patterns, peak hours, and other fascinating insights to uncover hidden trends within the dataset.
 
